@@ -1,5 +1,5 @@
 # glowandtell
-BME802 Design Project W2025: Website Design
+BME802 W2025 Design Project: Website Design
 <br />
 **Glow&Tell Skincare [Website](https://glowandtellskincare.weebly.com/)**
 <br />
