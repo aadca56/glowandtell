@@ -1,6 +1,8 @@
 # glowandtell
-BME802 Design Project W2025
+BME802 Design Project W2025: Website Design
 <br />
-Property of Amanda Chan 
+**Glow&Tell Skincare [Website](https://glowandtellskincare.weebly.com/)**
 <br />
-Toronto Metropolitan University
+*Property of Amanda Chan*
+<br />
+*Toronto Metropolitan University*
